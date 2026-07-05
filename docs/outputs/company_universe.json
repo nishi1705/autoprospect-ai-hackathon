@@ -1,0 +1,1043 @@
+[
+    {
+        "company_name": "Tata Motors",
+        "segment": "OEM",
+        "category": "Passenger Vehicles, Commercial Vehicles, EV",
+        "website": "https://www.tatamotors.com",
+        "business_notes": "Large Indian automotive OEM with passenger vehicles, commercial vehicles, EV portfolio, and broad market presence.",
+        "products_services": [
+            "Passenger vehicles",
+            "Commercial vehicles",
+            "Electric vehicles",
+            "Fleet solutions"
+        ],
+        "manufacturing_footprint": "Large multi-location manufacturing and service network in India.",
+        "growth_signals": [
+            "EV growth",
+            "commercial vehicle scale",
+            "large dealer and service network",
+            "connected mobility focus"
+        ],
+        "likely_data_assets": [
+            "Warranty claims",
+            "dealer service data",
+            "vehicle telematics",
+            "supplier data",
+            "production data"
+        ],
+        "initial_relevance_tags": [
+            "warranty",
+            "dealer_intelligence",
+            "supply_chain",
+            "ev"
+        ],
+        "evidence_notes": "High vehicle volumes, EV expansion, and service network scale indicate strong analytics opportunity.",
+        "source_categories": [
+            "Company website",
+            "SIAM",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "Mahindra & Mahindra",
+        "segment": "OEM",
+        "category": "SUVs, Commercial Vehicles, Tractors, EV",
+        "website": "https://www.mahindra.com",
+        "business_notes": "Major Indian automotive and farm equipment company with SUVs, commercial vehicles, tractors, and EV initiatives.",
+        "products_services": [
+            "SUVs",
+            "Commercial vehicles",
+            "Tractors",
+            "Electric mobility"
+        ],
+        "manufacturing_footprint": "Large Indian manufacturing and dealer network across automotive and farm sectors.",
+        "growth_signals": [
+            "SUV demand",
+            "EV initiatives",
+            "tractor leadership",
+            "rural and urban market spread"
+        ],
+        "likely_data_assets": [
+            "Warranty claims",
+            "dealer sales data",
+            "service data",
+            "supplier data",
+            "field performance data"
+        ],
+        "initial_relevance_tags": [
+            "dealer_intelligence",
+            "warranty",
+            "supply_chain",
+            "ev"
+        ],
+        "evidence_notes": "Diverse portfolio and dealer network complexity create strong opportunity for dealer and warranty analytics.",
+        "source_categories": [
+            "Company website",
+            "SIAM",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "Maruti Suzuki India",
+        "segment": "OEM",
+        "category": "Passenger Vehicles",
+        "website": "https://www.marutisuzuki.com",
+        "business_notes": "Leading passenger vehicle manufacturer in India with very large sales, service, and dealer footprint.",
+        "products_services": [
+            "Passenger cars",
+            "CNG vehicles",
+            "Hybrid-ready platforms",
+            "After-sales service"
+        ],
+        "manufacturing_footprint": "Large manufacturing and dealer/service network in India.",
+        "growth_signals": [
+            "high passenger vehicle volumes",
+            "service network scale",
+            "new model launches",
+            "hybrid and CNG focus"
+        ],
+        "likely_data_assets": [
+            "Warranty claims",
+            "dealer sales data",
+            "service records",
+            "customer satisfaction data"
+        ],
+        "initial_relevance_tags": [
+            "dealer_intelligence",
+            "warranty",
+            "aftermarket"
+        ],
+        "evidence_notes": "High vehicle volumes and dealer/service scale make dealer intelligence and warranty analytics relevant.",
+        "source_categories": [
+            "Company website",
+            "SIAM",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "Ashok Leyland",
+        "segment": "OEM",
+        "category": "Commercial Vehicles, Buses, Trucks",
+        "website": "https://www.ashokleyland.com",
+        "business_notes": "Major commercial vehicle manufacturer with trucks, buses, fleet operations, and service network.",
+        "products_services": [
+            "Trucks",
+            "Buses",
+            "Light commercial vehicles",
+            "Fleet services"
+        ],
+        "manufacturing_footprint": "Commercial vehicle manufacturing and service footprint across India.",
+        "growth_signals": [
+            "commercial vehicle demand",
+            "fleet uptime focus",
+            "service network expansion",
+            "supply chain dependency"
+        ],
+        "likely_data_assets": [
+            "Fleet service data",
+            "warranty claims",
+            "dealer service data",
+            "supplier data"
+        ],
+        "initial_relevance_tags": [
+            "warranty",
+            "dealer_intelligence",
+            "supply_chain",
+            "field_service"
+        ],
+        "evidence_notes": "Commercial vehicle uptime and service quality make warranty and field service intelligence highly relevant.",
+        "source_categories": [
+            "Company website",
+            "SIAM",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "Bajaj Auto",
+        "segment": "OEM",
+        "category": "Two-Wheelers, Three-Wheelers, EV",
+        "website": "https://www.bajajauto.com",
+        "business_notes": "Major two-wheeler and three-wheeler manufacturer with domestic and export markets.",
+        "products_services": [
+            "Motorcycles",
+            "Three-wheelers",
+            "Electric scooters",
+            "Exports"
+        ],
+        "manufacturing_footprint": "Large manufacturing and distribution network with export exposure.",
+        "growth_signals": [
+            "EV two-wheeler growth",
+            "export markets",
+            "dealer network scale",
+            "aftermarket opportunity"
+        ],
+        "likely_data_assets": [
+            "Dealer sales data",
+            "service data",
+            "warranty claims",
+            "export logistics data"
+        ],
+        "initial_relevance_tags": [
+            "dealer_intelligence",
+            "warranty",
+            "supply_chain",
+            "ev"
+        ],
+        "evidence_notes": "High dealer scale and EV expansion create strong dealer and warranty analytics use cases.",
+        "source_categories": [
+            "Company website",
+            "SIAM",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "TVS Motor Company",
+        "segment": "OEM",
+        "category": "Two-Wheelers, Three-Wheelers, EV",
+        "website": "https://www.tvsmotor.com",
+        "business_notes": "Major two-wheeler and three-wheeler manufacturer with growing EV presence.",
+        "products_services": [
+            "Motorcycles",
+            "Scooters",
+            "Three-wheelers",
+            "Electric scooters"
+        ],
+        "manufacturing_footprint": "Manufacturing and dealer footprint across India and international markets.",
+        "growth_signals": [
+            "EV scooter growth",
+            "premium two-wheeler focus",
+            "dealer network expansion",
+            "export presence"
+        ],
+        "likely_data_assets": [
+            "Dealer sales data",
+            "service data",
+            "warranty claims",
+            "customer experience data"
+        ],
+        "initial_relevance_tags": [
+            "dealer_intelligence",
+            "warranty",
+            "ev",
+            "aftermarket"
+        ],
+        "evidence_notes": "EV and dealer network growth create opportunities for warranty and dealer intelligence.",
+        "source_categories": [
+            "Company website",
+            "SIAM",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "Hero MotoCorp",
+        "segment": "OEM",
+        "category": "Two-Wheelers, EV",
+        "website": "https://www.heromotocorp.com",
+        "business_notes": "Large two-wheeler manufacturer with extensive sales and service network.",
+        "products_services": [
+            "Motorcycles",
+            "Scooters",
+            "Electric mobility",
+            "After-sales service"
+        ],
+        "manufacturing_footprint": "Large manufacturing and dealer/service network in India.",
+        "growth_signals": [
+            "large two-wheeler volume",
+            "EV mobility initiatives",
+            "rural and urban dealer spread"
+        ],
+        "likely_data_assets": [
+            "Dealer sales data",
+            "service records",
+            "warranty claims",
+            "customer satisfaction data"
+        ],
+        "initial_relevance_tags": [
+            "dealer_intelligence",
+            "warranty",
+            "aftermarket",
+            "ev"
+        ],
+        "evidence_notes": "Large dealer network and service base make dealer intelligence and warranty analytics relevant.",
+        "source_categories": [
+            "Company website",
+            "SIAM",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "Eicher Motors",
+        "segment": "OEM",
+        "category": "Motorcycles, Commercial Vehicles",
+        "website": "https://www.eichermotors.com",
+        "business_notes": "Automotive company associated with motorcycles and commercial vehicle operations through related business interests.",
+        "products_services": [
+            "Motorcycles",
+            "Commercial vehicles",
+            "After-sales service"
+        ],
+        "manufacturing_footprint": "Manufacturing and dealer/service presence across India.",
+        "growth_signals": [
+            "premium motorcycle growth",
+            "commercial vehicle operations",
+            "service network scale"
+        ],
+        "likely_data_assets": [
+            "Dealer sales data",
+            "service records",
+            "warranty claims",
+            "supplier data"
+        ],
+        "initial_relevance_tags": [
+            "dealer_intelligence",
+            "warranty",
+            "supply_chain"
+        ],
+        "evidence_notes": "Premium products and service experience create opportunities for dealer and warranty analytics.",
+        "source_categories": [
+            "Company website",
+            "SIAM",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "Hyundai Motor India",
+        "segment": "OEM",
+        "category": "Passenger Vehicles, EV",
+        "website": "https://www.hyundai.com/in",
+        "business_notes": "Large passenger vehicle manufacturer in India with broad product range and dealer network.",
+        "products_services": [
+            "Passenger cars",
+            "SUVs",
+            "Electric vehicles",
+            "After-sales service"
+        ],
+        "manufacturing_footprint": "Major manufacturing and dealer/service network in India.",
+        "growth_signals": [
+            "SUV demand",
+            "EV models",
+            "large dealer network",
+            "export orientation"
+        ],
+        "likely_data_assets": [
+            "Warranty claims",
+            "dealer service data",
+            "sales data",
+            "customer experience data"
+        ],
+        "initial_relevance_tags": [
+            "dealer_intelligence",
+            "warranty",
+            "supply_chain",
+            "ev"
+        ],
+        "evidence_notes": "Passenger vehicle scale and EV portfolio indicate strong analytics potential.",
+        "source_categories": [
+            "Company website",
+            "SIAM",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "Toyota Kirloskar Motor",
+        "segment": "OEM",
+        "category": "Passenger Vehicles, Hybrid Vehicles",
+        "website": "https://www.toyotabharat.com",
+        "business_notes": "Passenger vehicle manufacturer in India with focus on quality, hybrid technology, and customer experience.",
+        "products_services": [
+            "Passenger vehicles",
+            "Hybrid vehicles",
+            "SUVs",
+            "After-sales service"
+        ],
+        "manufacturing_footprint": "Manufacturing and dealer/service network in India.",
+        "growth_signals": [
+            "hybrid adoption",
+            "quality focus",
+            "dealer service operations",
+            "SUV demand"
+        ],
+        "likely_data_assets": [
+            "Warranty claims",
+            "dealer service data",
+            "customer satisfaction data",
+            "supplier data"
+        ],
+        "initial_relevance_tags": [
+            "warranty",
+            "dealer_intelligence",
+            "quality"
+        ],
+        "evidence_notes": "Quality, warranty, and dealer experience are strong analytical fit areas.",
+        "source_categories": [
+            "Company website",
+            "SIAM",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "Samvardhana Motherson International",
+        "segment": "Tier-1 Supplier",
+        "category": "Automotive Components, Wiring, Modules, Interiors",
+        "website": "https://www.motherson.com",
+        "business_notes": "Large automotive component supplier with global and Indian automotive customer base.",
+        "products_services": [
+            "Wiring harnesses",
+            "Modules",
+            "Interiors",
+            "Mirrors",
+            "Polymer components"
+        ],
+        "manufacturing_footprint": "Large multi-location and global manufacturing footprint.",
+        "growth_signals": [
+            "global customer base",
+            "multi-tier supply chain",
+            "EV component opportunity",
+            "supplier network complexity"
+        ],
+        "likely_data_assets": [
+            "Supplier data",
+            "production data",
+            "quality data",
+            "shipment data",
+            "customer order data"
+        ],
+        "initial_relevance_tags": [
+            "supply_chain",
+            "quality",
+            "warranty"
+        ],
+        "evidence_notes": "Complex supplier and manufacturing network makes supply chain risk prediction highly relevant.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "Bosch India",
+        "segment": "Tier-1 Supplier",
+        "category": "Automotive Technology, Components, Mobility Solutions",
+        "website": "https://www.bosch.in",
+        "business_notes": "Automotive technology and mobility solutions supplier with broad component and systems portfolio.",
+        "products_services": [
+            "Automotive components",
+            "Mobility solutions",
+            "Electronics",
+            "Aftermarket solutions"
+        ],
+        "manufacturing_footprint": "Manufacturing, engineering, and service presence in India.",
+        "growth_signals": [
+            "mobility technology",
+            "electronics",
+            "aftermarket",
+            "supply chain complexity"
+        ],
+        "likely_data_assets": [
+            "Quality data",
+            "supplier data",
+            "aftermarket data",
+            "production data"
+        ],
+        "initial_relevance_tags": [
+            "supply_chain",
+            "warranty",
+            "aftermarket"
+        ],
+        "evidence_notes": "Technology-heavy portfolio and aftermarket exposure create analytics opportunities.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "Bharat Forge",
+        "segment": "Component Manufacturer",
+        "category": "Forgings, Auto Components, Industrial Components",
+        "website": "https://www.bharatforge.com",
+        "business_notes": "Large forging and component manufacturer serving automotive and industrial sectors.",
+        "products_services": [
+            "Forged components",
+            "Powertrain components",
+            "Chassis components",
+            "Industrial components"
+        ],
+        "manufacturing_footprint": "Large manufacturing and export-oriented operations.",
+        "growth_signals": [
+            "export exposure",
+            "EV component transition",
+            "industrial diversification",
+            "production complexity"
+        ],
+        "likely_data_assets": [
+            "Production data",
+            "quality data",
+            "supplier data",
+            "shipment data"
+        ],
+        "initial_relevance_tags": [
+            "supply_chain",
+            "quality",
+            "production"
+        ],
+        "evidence_notes": "Manufacturing scale and export exposure indicate supply chain and quality analytics fit.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "Uno Minda",
+        "segment": "Tier-1 Supplier",
+        "category": "Automotive Components, Electronics, Lighting, Switches",
+        "website": "https://www.unominda.com",
+        "business_notes": "Automotive component supplier with products across electronics, lighting, switches, and systems.",
+        "products_services": [
+            "Switches",
+            "Lighting",
+            "Acoustics",
+            "Seating",
+            "Electronics"
+        ],
+        "manufacturing_footprint": "Multiple plants and supply relationships with OEMs.",
+        "growth_signals": [
+            "electronics growth",
+            "EV components",
+            "OEM dependency",
+            "multi-product complexity"
+        ],
+        "likely_data_assets": [
+            "Supplier data",
+            "quality data",
+            "production data",
+            "customer order data"
+        ],
+        "initial_relevance_tags": [
+            "supply_chain",
+            "warranty",
+            "quality",
+            "ev"
+        ],
+        "evidence_notes": "Multi-product portfolio and OEM supply relationships indicate strong supply chain analytics need.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "Sona BLW Precision Forgings",
+        "segment": "Component Manufacturer",
+        "category": "EV Components, Drivetrain, Precision Forgings",
+        "website": "https://sonacomstar.com",
+        "business_notes": "Automotive technology and component company with drivetrain and EV-related component focus.",
+        "products_services": [
+            "Differential gears",
+            "Drivetrain components",
+            "EV traction motor components",
+            "Precision forgings"
+        ],
+        "manufacturing_footprint": "Manufacturing and global automotive supply exposure.",
+        "growth_signals": [
+            "EV component growth",
+            "global customers",
+            "precision manufacturing",
+            "quality requirements"
+        ],
+        "likely_data_assets": [
+            "Quality data",
+            "production data",
+            "supplier data",
+            "customer delivery data"
+        ],
+        "initial_relevance_tags": [
+            "supply_chain",
+            "quality",
+            "ev",
+            "warranty"
+        ],
+        "evidence_notes": "EV component exposure and precision manufacturing create strong analytics relevance.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "Endurance Technologies",
+        "segment": "Component Manufacturer",
+        "category": "Auto Components, Aluminum Die Casting, Suspension, Braking",
+        "website": "https://www.endurancegroup.com",
+        "business_notes": "Automotive component manufacturer serving two-wheeler, three-wheeler, and four-wheeler segments.",
+        "products_services": [
+            "Aluminum die casting",
+            "Suspension",
+            "Transmission",
+            "Braking systems"
+        ],
+        "manufacturing_footprint": "Manufacturing footprint across India and overseas markets.",
+        "growth_signals": [
+            "two-wheeler component demand",
+            "export exposure",
+            "manufacturing scale",
+            "quality focus"
+        ],
+        "likely_data_assets": [
+            "Production data",
+            "quality data",
+            "supplier data",
+            "shipment data"
+        ],
+        "initial_relevance_tags": [
+            "supply_chain",
+            "quality",
+            "warranty"
+        ],
+        "evidence_notes": "Manufacturing scale and OEM dependency create supply chain and quality analytics fit.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "Varroc Engineering",
+        "segment": "Component Manufacturer",
+        "category": "Automotive Lighting, Electronics, Polymer Components",
+        "website": "https://www.varroc.com",
+        "business_notes": "Automotive component supplier with lighting, electronics, and polymer solutions.",
+        "products_services": [
+            "Lighting systems",
+            "Electronics",
+            "Polymer components",
+            "Electrical systems"
+        ],
+        "manufacturing_footprint": "Manufacturing and supply footprint across automotive customers.",
+        "growth_signals": [
+            "automotive electronics",
+            "lighting systems",
+            "EV component relevance",
+            "supplier complexity"
+        ],
+        "likely_data_assets": [
+            "Quality data",
+            "production data",
+            "supplier data",
+            "customer order data"
+        ],
+        "initial_relevance_tags": [
+            "supply_chain",
+            "quality",
+            "warranty",
+            "ev"
+        ],
+        "evidence_notes": "Lighting/electronics complexity makes quality and supply chain analytics relevant.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "Amara Raja Energy & Mobility",
+        "segment": "Component Manufacturer",
+        "category": "Batteries, Energy Storage, Mobility",
+        "website": "https://www.amararajaeandm.com",
+        "business_notes": "Battery and energy storage company serving automotive and industrial markets.",
+        "products_services": [
+            "Automotive batteries",
+            "Industrial batteries",
+            "Energy storage",
+            "Mobility solutions"
+        ],
+        "manufacturing_footprint": "Battery manufacturing and distribution network in India.",
+        "growth_signals": [
+            "battery demand",
+            "EV ecosystem",
+            "aftermarket battery network",
+            "energy storage growth"
+        ],
+        "likely_data_assets": [
+            "Warranty claims",
+            "dealer/channel data",
+            "production data",
+            "supplier data"
+        ],
+        "initial_relevance_tags": [
+            "warranty",
+            "supply_chain",
+            "dealer_intelligence",
+            "ev"
+        ],
+        "evidence_notes": "Battery warranty, aftermarket channel, and EV ecosystem create strong analytics fit.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "Exide Industries",
+        "segment": "Component Manufacturer",
+        "category": "Automotive Batteries, Energy Storage",
+        "website": "https://www.exideindustries.com",
+        "business_notes": "Major battery manufacturer with automotive and industrial battery portfolio.",
+        "products_services": [
+            "Automotive batteries",
+            "Industrial batteries",
+            "Energy storage solutions",
+            "Aftermarket channel"
+        ],
+        "manufacturing_footprint": "Battery manufacturing and dealer/distribution network in India.",
+        "growth_signals": [
+            "battery replacement market",
+            "EV ecosystem",
+            "aftermarket network",
+            "energy storage"
+        ],
+        "likely_data_assets": [
+            "Warranty claims",
+            "dealer/channel data",
+            "production data",
+            "quality data"
+        ],
+        "initial_relevance_tags": [
+            "warranty",
+            "dealer_intelligence",
+            "supply_chain",
+            "aftermarket"
+        ],
+        "evidence_notes": "Warranty and aftermarket data make this a strong fit for warranty and channel intelligence.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "Minda Corporation",
+        "segment": "Tier-1 Supplier",
+        "category": "Automotive Components, Security Systems, Electronics",
+        "website": "https://www.sparkminda.com",
+        "business_notes": "Automotive component supplier with security systems, wiring, electronics, and component solutions.",
+        "products_services": [
+            "Locking systems",
+            "Wiring harnesses",
+            "Electronics",
+            "Interior systems"
+        ],
+        "manufacturing_footprint": "Manufacturing footprint and OEM supply relationships.",
+        "growth_signals": [
+            "electronics growth",
+            "OEM dependency",
+            "EV component opportunity",
+            "quality requirements"
+        ],
+        "likely_data_assets": [
+            "Supplier data",
+            "quality data",
+            "production data",
+            "customer order data"
+        ],
+        "initial_relevance_tags": [
+            "supply_chain",
+            "quality",
+            "warranty",
+            "ev"
+        ],
+        "evidence_notes": "Electronics and OEM supply relationships indicate analytics fit.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "JBM Auto",
+        "segment": "OEM / Component Manufacturer",
+        "category": "Electric Buses, Auto Components",
+        "website": "https://www.jbmgroup.com",
+        "business_notes": "Automotive company active in auto components and electric mobility including buses.",
+        "products_services": [
+            "Electric buses",
+            "Auto components",
+            "Systems",
+            "Manufacturing solutions"
+        ],
+        "manufacturing_footprint": "Manufacturing operations with EV and component relevance.",
+        "growth_signals": [
+            "electric bus growth",
+            "public mobility",
+            "component manufacturing",
+            "supply chain needs"
+        ],
+        "likely_data_assets": [
+            "Fleet service data",
+            "warranty claims",
+            "production data",
+            "supplier data"
+        ],
+        "initial_relevance_tags": [
+            "warranty",
+            "supply_chain",
+            "field_service",
+            "ev"
+        ],
+        "evidence_notes": "EV bus operations create field service, warranty, and supply chain analytics opportunities.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "Sundaram Clayton",
+        "segment": "Component Manufacturer",
+        "category": "Aluminum Die Casting, Auto Components",
+        "website": "https://www.sundaramclayton.com",
+        "business_notes": "Automotive component manufacturer focused on aluminum die-cast products.",
+        "products_services": [
+            "Aluminum die castings",
+            "Machined components",
+            "Automotive components"
+        ],
+        "manufacturing_footprint": "Manufacturing operations serving automotive customers.",
+        "growth_signals": [
+            "lightweighting demand",
+            "component manufacturing",
+            "quality requirements",
+            "OEM supply"
+        ],
+        "likely_data_assets": [
+            "Production data",
+            "quality data",
+            "supplier data",
+            "customer order data"
+        ],
+        "initial_relevance_tags": [
+            "supply_chain",
+            "quality",
+            "warranty"
+        ],
+        "evidence_notes": "Precision manufacturing and OEM supply make supply chain and quality analytics relevant.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "Gabriel India",
+        "segment": "Component Manufacturer",
+        "category": "Ride Control Products, Suspension",
+        "website": "https://www.anandgroupindia.com/gabrielindia",
+        "business_notes": "Automotive component manufacturer focused on ride control products and suspension systems.",
+        "products_services": [
+            "Shock absorbers",
+            "Struts",
+            "Front forks",
+            "Suspension systems"
+        ],
+        "manufacturing_footprint": "Manufacturing and supply network serving OEMs and aftermarket.",
+        "growth_signals": [
+            "aftermarket opportunity",
+            "OEM supply",
+            "quality requirements",
+            "vehicle parc growth"
+        ],
+        "likely_data_assets": [
+            "Warranty claims",
+            "aftermarket channel data",
+            "quality data",
+            "production data"
+        ],
+        "initial_relevance_tags": [
+            "warranty",
+            "dealer_intelligence",
+            "supply_chain",
+            "aftermarket"
+        ],
+        "evidence_notes": "Aftermarket and warranty exposure create strong analytics fit.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "MRF",
+        "segment": "Component Manufacturer",
+        "category": "Tyres, Rubber Products",
+        "website": "https://www.mrftyres.com",
+        "business_notes": "Major tyre manufacturer with OEM and aftermarket presence.",
+        "products_services": [
+            "Tyres",
+            "Tubes",
+            "Rubber products",
+            "Aftermarket distribution"
+        ],
+        "manufacturing_footprint": "Manufacturing and distribution network across India.",
+        "growth_signals": [
+            "aftermarket tyre demand",
+            "OEM relationships",
+            "quality and warranty exposure",
+            "distribution scale"
+        ],
+        "likely_data_assets": [
+            "Warranty claims",
+            "dealer/channel data",
+            "production quality data",
+            "distribution data"
+        ],
+        "initial_relevance_tags": [
+            "warranty",
+            "dealer_intelligence",
+            "aftermarket",
+            "supply_chain"
+        ],
+        "evidence_notes": "Large aftermarket and warranty exposure make dealer and warranty analytics relevant.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "CEAT",
+        "segment": "Component Manufacturer",
+        "category": "Tyres, Mobility Products",
+        "website": "https://www.ceat.com",
+        "business_notes": "Tyre manufacturer serving OEM and replacement markets.",
+        "products_services": [
+            "Tyres",
+            "Mobility products",
+            "Aftermarket distribution"
+        ],
+        "manufacturing_footprint": "Manufacturing and dealer/distribution footprint in India.",
+        "growth_signals": [
+            "replacement market",
+            "OEM supply",
+            "distribution network",
+            "quality and warranty exposure"
+        ],
+        "likely_data_assets": [
+            "Warranty claims",
+            "dealer/channel data",
+            "production quality data",
+            "sales data"
+        ],
+        "initial_relevance_tags": [
+            "warranty",
+            "dealer_intelligence",
+            "aftermarket"
+        ],
+        "evidence_notes": "Replacement market and dealer/channel network create opportunity for dealer and warranty analytics.",
+        "source_categories": [
+            "Company website",
+            "ACMA",
+            "Financial portals",
+            "Business news"
+        ]
+    },
+    {
+        "company_name": "Ola Electric",
+        "segment": "EV OEM",
+        "category": "Electric Two-Wheelers, EV Mobility",
+        "website": "https://www.olaelectric.com",
+        "business_notes": "Electric two-wheeler manufacturer focused on EV mobility.",
+        "products_services": [
+            "Electric scooters",
+            "EV technology",
+            "Charging ecosystem"
+        ],
+        "manufacturing_footprint": "EV manufacturing and direct/customer support ecosystem.",
+        "growth_signals": [
+            "EV adoption",
+            "battery and software complexity",
+            "service quality importance",
+            "supply chain dependency"
+        ],
+        "likely_data_assets": [
+            "Warranty claims",
+            "battery performance data",
+            "service data",
+            "customer experience data"
+        ],
+        "initial_relevance_tags": [
+            "warranty",
+            "dealer_intelligence",
+            "ev",
+            "field_service",
+            "supply_chain"
+        ],
+        "evidence_notes": "EV product complexity makes warranty, field service, and quality analytics highly relevant.",
+        "source_categories": [
+            "Company website",
+            "Business news",
+            "Financial portals"
+        ]
+    },
+    {
+        "company_name": "Ather Energy",
+        "segment": "EV OEM",
+        "category": "Electric Two-Wheelers, Charging Ecosystem",
+        "website": "https://www.atherenergy.com",
+        "business_notes": "Electric two-wheeler company with connected scooter and charging ecosystem.",
+        "products_services": [
+            "Electric scooters",
+            "Charging network",
+            "Connected mobility services"
+        ],
+        "manufacturing_footprint": "EV manufacturing and sales/service network in India.",
+        "growth_signals": [
+            "connected EV data",
+            "charging ecosystem",
+            "service experience",
+            "battery analytics need"
+        ],
+        "likely_data_assets": [
+            "Battery data",
+            "vehicle telemetry",
+            "service records",
+            "warranty claims"
+        ],
+        "initial_relevance_tags": [
+            "warranty",
+            "dealer_intelligence",
+            "ev",
+            "field_service"
+        ],
+        "evidence_notes": "Connected EV operations create strong data readiness for warranty and service intelligence.",
+        "source_categories": [
+            "Company website",
+            "Business news",
+            "Financial portals"
+        ]
+    }
+]

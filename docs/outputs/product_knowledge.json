@@ -1,0 +1,163 @@
+{
+    "Warranty Analytics": {
+        "solution_name": "Warranty Analytics",
+        "description": "Warranty Analytics helps automotive companies detect product defects, analyze warranty claims, identify quality issues early, and reduce warranty cost exposure.",
+        "best_fit_segments": [
+            "Automotive OEMs",
+            "Commercial vehicle manufacturers",
+            "Passenger vehicle manufacturers",
+            "EV manufacturers",
+            "Component manufacturers with field failure exposure"
+        ],
+        "pain_points": [
+            "High warranty cost",
+            "Recurring product defects",
+            "Delayed defect detection",
+            "Claim spikes",
+            "Recall risk",
+            "Quality leakage",
+            "Field failure patterns",
+            "High claim cycle time"
+        ],
+        "capabilities": [
+            "Warranty claim trend analysis",
+            "Defect pattern detection",
+            "Time-series anomaly detection",
+            "Clustering of failure symptoms",
+            "Correlation of defects with supplier, plant, batch, or vehicle model",
+            "Predictive early-warning alerts",
+            "Root-cause focused warranty reporting"
+        ],
+        "kpis": [
+            "Defects per 1,000 vehicles",
+            "Mean Time Between Failures",
+            "Warranty spend per unit",
+            "Claim cycle time",
+            "Recall incidence rate",
+            "Cost avoidance"
+        ],
+        "business_value": [
+            "Early defect detection before escalation",
+            "Reduction in warranty cost",
+            "Improved quality response",
+            "Lower recall risk",
+            "Better visibility into field performance"
+        ],
+        "typical_deliverables": [
+            "Warranty trend reports",
+            "BI dashboard for claims and defect heatmaps",
+            "Automated alerts for claim spikes",
+            "Predictive defect classification models"
+        ],
+        "sales_angle": "Position this solution where the prospect has large vehicle volumes, complex product portfolios, EV transition, field quality issues, or high warranty exposure."
+    },
+    "Supply Chain Risk Prediction": {
+        "solution_name": "Supply Chain Risk Prediction",
+        "description": "Supply Chain Risk Prediction helps automotive companies monitor supplier health, logistics risk, inventory exposure, shipment delays, and production disruption risks.",
+        "best_fit_segments": [
+            "Automotive OEMs",
+            "Tier-1 suppliers",
+            "Component manufacturers",
+            "Battery manufacturers",
+            "Export-oriented manufacturers",
+            "Companies with multi-tier supplier networks"
+        ],
+        "pain_points": [
+            "Supplier dependency",
+            "Shipment delays",
+            "Inventory shortage",
+            "Production downtime",
+            "Port or logistics disruption",
+            "Raw material shortage",
+            "Demand-supply mismatch",
+            "Poor visibility across supplier network"
+        ],
+        "capabilities": [
+            "Supplier risk scoring",
+            "Graph-based supplier network analysis",
+            "Shipment and logistics monitoring",
+            "Inventory risk monitoring",
+            "Lead-time forecasting",
+            "External risk signal monitoring",
+            "Production impact prediction"
+        ],
+        "kpis": [
+            "Supplier risk score",
+            "Parts availability",
+            "Days of inventory",
+            "Fill rate",
+            "On-time in-full delivery rate",
+            "Production downtime"
+        ],
+        "business_value": [
+            "Reduced production disruption",
+            "Improved supply chain visibility",
+            "Lower logistics cost",
+            "Better inventory planning",
+            "Early warning for supplier or shipment risk"
+        ],
+        "typical_deliverables": [
+            "Supply chain control tower",
+            "Ranked list of at-risk suppliers and components",
+            "Early-warning alerts",
+            "Weekly risk summaries",
+            "Lead-time forecasting models"
+        ],
+        "sales_angle": "Position this solution where the prospect has large manufacturing operations, multi-tier suppliers, export exposure, EV component dependency, or high production continuity risk."
+    },
+    "Dealer & Field Service Intelligence": {
+        "solution_name": "Dealer & Field Service Intelligence",
+        "description": "Dealer & Field Service Intelligence helps automotive companies improve dealer performance, service operations, aftermarket revenue, customer experience, and field service planning.",
+        "best_fit_segments": [
+            "Automotive OEMs",
+            "Two-wheeler manufacturers",
+            "Commercial vehicle manufacturers",
+            "Passenger vehicle manufacturers",
+            "Companies with large dealer or service networks"
+        ],
+        "pain_points": [
+            "Inconsistent dealer performance",
+            "Low showroom conversion",
+            "Poor service visibility",
+            "Repeat service visits",
+            "Aftermarket revenue leakage",
+            "Low warranty penetration",
+            "Delayed field service response",
+            "Customer satisfaction issues"
+        ],
+        "capabilities": [
+            "Dealer performance dashboard",
+            "Sales and service KPI analytics",
+            "Dealer benchmarking",
+            "Service demand forecasting",
+            "Aftermarket revenue analytics",
+            "Lead conversion analytics",
+            "Technician workload and dispatch optimization"
+        ],
+        "kpis": [
+            "Sales per dealer",
+            "Showroom conversion rate",
+            "Finance penetration",
+            "Aftermarket revenue per vehicle",
+            "Warranty penetration percentage",
+            "Mean Time To Repair",
+            "First-Time Fix Rate",
+            "Customer Satisfaction Index"
+        ],
+        "business_value": [
+            "Improved dealer performance",
+            "Higher aftermarket revenue",
+            "Better customer experience",
+            "Improved service efficiency",
+            "Better visibility across dealer network"
+        ],
+        "typical_deliverables": [
+            "Network-wide dealer scorecards",
+            "Location-level drill-down dashboards",
+            "Automated alerts for dealer KPI drops",
+            "Monthly dealer and field service reports",
+            "Service demand forecasting models"
+        ],
+        "sales_angle": "Position this solution where the prospect has a large dealer network, aftermarket revenue opportunity, service performance gaps, or customer experience challenges."
+    }
+}

@@ -1,0 +1,732 @@
+[
+    {
+        "rank": 1,
+        "company_name": "Ola Electric",
+        "segment": "EV OEM",
+        "category": "Electric Two-Wheelers, EV Mobility",
+        "company_overview": "Electric two-wheeler manufacturer focused on EV mobility.",
+        "primary_solution": "Warranty Analytics",
+        "secondary_solution": "Dealer & Field Service Intelligence",
+        "opportunity_score": 84,
+        "priority": "Hot",
+        "confidence": "High",
+        "why_selected": "Ola Electric was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the EV OEM segment with a total opportunity score of 84/100. Key growth and opportunity signals include EV adoption, battery and software complexity, service quality importance, supply chain dependency. Evidence note: EV product complexity makes warranty, field service, and quality analytics highly relevant.",
+        "business_challenges": [
+            "High warranty and quality analytics need",
+            "Medium supply chain and supplier risk complexity",
+            "High dealer and field service performance complexity",
+            "Medium EV transition and new product reliability complexity",
+            "Medium aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "Ola Electric shows High warranty complexity, Medium supply chain complexity, High dealer/service complexity, Medium EV transition complexity, and Medium aftermarket opportunity.",
+        "expected_business_value": "Early defect detection before escalation; Reduction in warranty cost; Improved quality response; Improved dealer performance; Higher aftermarket revenue",
+        "key_xyz_capabilities": [
+            "Warranty claim trend analysis",
+            "Defect pattern detection",
+            "Time-series anomaly detection",
+            "Clustering of failure symptoms",
+            "Correlation of defects with supplier, plant, batch, or vehicle model"
+        ],
+        "relevant_kpis": [
+            "Defects per 1,000 vehicles",
+            "Mean Time Between Failures",
+            "Warranty spend per unit",
+            "Claim cycle time",
+            "Recall incidence rate"
+        ],
+        "suggested_stakeholders": [
+            "Head of Quality",
+            "Head of Warranty",
+            "Head of After-Sales Service",
+            "Manufacturing Quality Leader",
+            "CIO / Chief Data Officer"
+        ],
+        "sales_conversation_starter": "How is Ola Electric currently using warranty claims, service records, and quality data to detect defect patterns before they become large-scale field issues?",
+        "why_not_risk": "Ola Electric is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. Large OEMs may already have internal analytics teams, so XYZ should position domain accelerators and faster time-to-value.",
+        "sales_strategy_focus": "Lead with warranty cost reduction, early defect detection, recall prevention, and quality analytics.",
+        "recommended_next_action": "Schedule a 30-minute executive discovery call, validate the active pain area, and propose a focused analytics PoC using available warranty, supply chain, or dealer data.",
+        "evidence_notes": "EV product complexity makes warranty, field service, and quality analytics highly relevant. Live evidence keywords: charging, electric, ev, service, two-wheeler. Recent news evidence: Ola Electric to Ather Energy: EV companies in India - Upstox | Ola Electric sales rise 23% MoM in May to 15,139 units - ET Auto | Ola Electric rises 20% even as EV two-wheeler registrations decline in April - Entrackr | Top 5 Electric 2-Wheeler Manufacturers In India, Ola Out Of List For Feb'26 - NDTV | Ola Electric sees 23 pc growth in monthly registrations in May - The Economic Times. Live web summary: Ola Electric to Ather Energy: EV companies in India - Upstox | Ola Electric sales rise 23% MoM in May to 15,139 units - ET Auto | Ola Electric rises 20% even as EV two-wheeler registrations decline in April - Entrackr | Top 5 Electric 2-Wheeler Manufacturers In India, Ola Out Of List For Feb'26 - NDTV | Ola Electric sees 23 pc growth in monthly registrations in May - The Economic Times Electric Sc.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 2,
+        "company_name": "Ather Energy",
+        "segment": "EV OEM",
+        "category": "Electric Two-Wheelers, Charging Ecosystem",
+        "company_overview": "Electric two-wheeler company with connected scooter and charging ecosystem.",
+        "primary_solution": "Warranty Analytics",
+        "secondary_solution": "Dealer & Field Service Intelligence",
+        "opportunity_score": 83,
+        "priority": "Hot",
+        "confidence": "High",
+        "why_selected": "Ather Energy was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the EV OEM segment with a total opportunity score of 83/100. Key growth and opportunity signals include connected EV data, charging ecosystem, service experience, battery analytics need. Evidence note: Connected EV operations create strong data readiness for warranty and service intelligence.",
+        "business_challenges": [
+            "High warranty and quality analytics need",
+            "Medium supply chain and supplier risk complexity",
+            "High dealer and field service performance complexity",
+            "High EV transition and new product reliability complexity",
+            "Medium aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "Ather Energy shows High warranty complexity, Medium supply chain complexity, High dealer/service complexity, High EV transition complexity, and Medium aftermarket opportunity.",
+        "expected_business_value": "Early defect detection before escalation; Reduction in warranty cost; Improved quality response; Improved dealer performance; Higher aftermarket revenue",
+        "key_xyz_capabilities": [
+            "Warranty claim trend analysis",
+            "Defect pattern detection",
+            "Time-series anomaly detection",
+            "Clustering of failure symptoms",
+            "Correlation of defects with supplier, plant, batch, or vehicle model"
+        ],
+        "relevant_kpis": [
+            "Defects per 1,000 vehicles",
+            "Mean Time Between Failures",
+            "Warranty spend per unit",
+            "Claim cycle time",
+            "Recall incidence rate"
+        ],
+        "suggested_stakeholders": [
+            "Head of Quality",
+            "Head of Warranty",
+            "Head of After-Sales Service",
+            "Manufacturing Quality Leader",
+            "CIO / Chief Data Officer"
+        ],
+        "sales_conversation_starter": "How is Ather Energy currently using warranty claims, service records, and quality data to detect defect patterns before they become large-scale field issues?",
+        "why_not_risk": "Ather Energy is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. Large OEMs may already have internal analytics teams, so XYZ should position domain accelerators and faster time-to-value.",
+        "sales_strategy_focus": "Lead with warranty cost reduction, early defect detection, recall prevention, and quality analytics.",
+        "recommended_next_action": "Schedule a 30-minute executive discovery call, validate the active pain area, and propose a focused analytics PoC using available warranty, supply chain, or dealer data.",
+        "evidence_notes": "Connected EV operations create strong data readiness for warranty and service intelligence. Live evidence keywords: charging, electric, ev, mobility, supplier. Recent news evidence: OEM-supplier collaboration key to building India’s next generation of automotive IP: Ather’s Swapnil Jai.. - ET Auto | Ather Energy Crosses 7 Lakh Electric Scooter Sales Milestone, Becomes India’s Fourth Largest EV Brand By Cumulative Deliveries - Autopunditz | Ather Energy Becomes Fourth Indian EV Maker to Surpass 700,000 Sales - Autocar Professional | India's Ather Energy narrows quarterly loss . Live web summary: OEM-supplier collaboration key to building India’s next generation of automotive IP: Ather’s Swapnil Jai.. - ET Auto | Ather Energy Crosses 7 Lakh Electric Scooter Sales Milestone, Becomes India’s Fourth Largest EV Brand By Cumulative Deliveries - Autopunditz | Ather Energy Becomes Fourth Indian EV Maker to Surpass 700,000 Sales - Autocar Professional | India's Ather Energy narrows quarterly loss .",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 3,
+        "company_name": "Bajaj Auto",
+        "segment": "OEM",
+        "category": "Two-Wheelers, Three-Wheelers, EV",
+        "company_overview": "Major two-wheeler and three-wheeler manufacturer with domestic and export markets.",
+        "primary_solution": "Supply Chain Risk Prediction",
+        "secondary_solution": "Warranty Analytics",
+        "opportunity_score": 83,
+        "priority": "Hot",
+        "confidence": "High",
+        "why_selected": "Bajaj Auto was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the OEM segment with a total opportunity score of 83/100. Key growth and opportunity signals include EV two-wheeler growth, export markets, dealer network scale, aftermarket opportunity. Evidence note: High dealer scale and EV expansion create strong dealer and warranty analytics use cases.",
+        "business_challenges": [
+            "Medium warranty and quality analytics need",
+            "High supply chain and supplier risk complexity",
+            "Medium dealer and field service performance complexity",
+            "Medium EV transition and new product reliability complexity",
+            "Medium aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "Bajaj Auto shows Medium warranty complexity, High supply chain complexity, Medium dealer/service complexity, Medium EV transition complexity, and Medium aftermarket opportunity.",
+        "expected_business_value": "Reduced production disruption; Improved supply chain visibility; Lower logistics cost; Early defect detection before escalation; Reduction in warranty cost",
+        "key_xyz_capabilities": [
+            "Supplier risk scoring",
+            "Graph-based supplier network analysis",
+            "Shipment and logistics monitoring",
+            "Inventory risk monitoring",
+            "Lead-time forecasting"
+        ],
+        "relevant_kpis": [
+            "Supplier risk score",
+            "Parts availability",
+            "Days of inventory",
+            "Fill rate",
+            "On-time in-full delivery rate"
+        ],
+        "suggested_stakeholders": [
+            "Chief Supply Chain Officer",
+            "Head of Procurement",
+            "Head of Manufacturing Operations",
+            "Supplier Quality Leader",
+            "COO / CIO"
+        ],
+        "sales_conversation_starter": "How is Bajaj Auto currently predicting supplier, inventory, and logistics risks before they impact production continuity?",
+        "why_not_risk": "Bajaj Auto is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. Large OEMs may already have internal analytics teams, so XYZ should position domain accelerators and faster time-to-value.",
+        "sales_strategy_focus": "Lead with supplier risk visibility, production continuity, lead-time forecasting, and disruption prevention.",
+        "recommended_next_action": "Schedule a 30-minute executive discovery call, validate the active pain area, and propose a focused analytics PoC using available warranty, supply chain, or dealer data.",
+        "evidence_notes": "High dealer scale and EV expansion create strong dealer and warranty analytics use cases. Live evidence keywords: customer, electric, manufacturing, service. Recent news evidence: Bajaj Auto domestic sales rise 11% in June to 2.10 lakh units - ET Auto | Bajaj Auto Eyes New Manufacturing Plant In South India; Tamil Nadu And Telangana Emerge As Front-Runners - Autopunditz | Indian auto giant Bajaj Auto hit by ransomware incident - The Record from Recorded Future News | Bajaj Auto hit by ransomware attack, operations unaffected - Autocar India | Bajaj Auto, India restores full. Live web summary: Bajaj Auto domestic sales rise 11% in June to 2.10 lakh units - ET Auto | Bajaj Auto Eyes New Manufacturing Plant In South India; Tamil Nadu And Telangana Emerge As Front-Runners - Autopunditz | Indian auto giant Bajaj Auto hit by ransomware incident - The Record from Recorded Future News | Bajaj Auto hit by ransomware attack, operations unaffected - Autocar India | Bajaj Auto, India restores full.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 4,
+        "company_name": "Hyundai Motor India",
+        "segment": "OEM",
+        "category": "Passenger Vehicles, EV",
+        "company_overview": "Large passenger vehicle manufacturer in India with broad product range and dealer network.",
+        "primary_solution": "Supply Chain Risk Prediction",
+        "secondary_solution": "Warranty Analytics",
+        "opportunity_score": 83,
+        "priority": "Hot",
+        "confidence": "High",
+        "why_selected": "Hyundai Motor India was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the OEM segment with a total opportunity score of 83/100. Key growth and opportunity signals include SUV demand, EV models, large dealer network, export orientation. Evidence note: Passenger vehicle scale and EV portfolio indicate strong analytics potential.",
+        "business_challenges": [
+            "Medium warranty and quality analytics need",
+            "High supply chain and supplier risk complexity",
+            "Medium dealer and field service performance complexity",
+            "Medium EV transition and new product reliability complexity",
+            "Medium aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "Hyundai Motor India shows Medium warranty complexity, High supply chain complexity, Medium dealer/service complexity, Medium EV transition complexity, and Medium aftermarket opportunity.",
+        "expected_business_value": "Reduced production disruption; Improved supply chain visibility; Lower logistics cost; Early defect detection before escalation; Reduction in warranty cost",
+        "key_xyz_capabilities": [
+            "Supplier risk scoring",
+            "Graph-based supplier network analysis",
+            "Shipment and logistics monitoring",
+            "Inventory risk monitoring",
+            "Lead-time forecasting"
+        ],
+        "relevant_kpis": [
+            "Supplier risk score",
+            "Parts availability",
+            "Days of inventory",
+            "Fill rate",
+            "On-time in-full delivery rate"
+        ],
+        "suggested_stakeholders": [
+            "Chief Supply Chain Officer",
+            "Head of Procurement",
+            "Head of Manufacturing Operations",
+            "Supplier Quality Leader",
+            "COO / CIO"
+        ],
+        "sales_conversation_starter": "How is Hyundai Motor India currently predicting supplier, inventory, and logistics risks before they impact production continuity?",
+        "why_not_risk": "Hyundai Motor India is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. Large OEMs may already have internal analytics teams, so XYZ should position domain accelerators and faster time-to-value.",
+        "sales_strategy_focus": "Lead with supplier risk visibility, production continuity, lead-time forecasting, and disruption prevention.",
+        "recommended_next_action": "Schedule a 30-minute executive discovery call, validate the active pain area, and propose a focused analytics PoC using available warranty, supply chain, or dealer data.",
+        "evidence_notes": "Passenger vehicle scale and EV portfolio indicate strong analytics potential. Live evidence keywords: battery, dealer, electric, ev, production, service, supplier. Recent news evidence: Hyundai Motor India Reports 51,335 Sales in June 2026 Despite Production Disruption - Autopunditz | HMIL introduces Battery-as-a-Service (BaaS) for CRETA Electric starting at INR 10.99 lakhs - hyundai.com | Hyundai Motor India posts June sales of 51,335 units despite supplier fire disruption - The Economic Times | Hyundai Motor India sales decline 10% to 39,635 units in June - ET Auto | Hyundai Mo. Live web summary: Hyundai Motor India Reports 51,335 Sales in June 2026 Despite Production Disruption - Autopunditz | HMIL introduces Battery-as-a-Service (BaaS) for CRETA Electric starting at INR 10.99 lakhs - hyundai.com | Hyundai Motor India posts June sales of 51,335 units despite supplier fire disruption - The Economic Times | Hyundai Motor India sales decline 10% to 39,635 units in June - ET Auto | Hyundai Mo.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 5,
+        "company_name": "Hero MotoCorp",
+        "segment": "OEM",
+        "category": "Two-Wheelers, EV",
+        "company_overview": "Large two-wheeler manufacturer with extensive sales and service network.",
+        "primary_solution": "Dealer & Field Service Intelligence",
+        "secondary_solution": "Warranty Analytics",
+        "opportunity_score": 82,
+        "priority": "Hot",
+        "confidence": "High",
+        "why_selected": "Hero MotoCorp was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the OEM segment with a total opportunity score of 82/100. Key growth and opportunity signals include large two-wheeler volume, EV mobility initiatives, rural and urban dealer spread. Evidence note: Large dealer network and service base make dealer intelligence and warranty analytics relevant.",
+        "business_challenges": [
+            "Medium warranty and quality analytics need",
+            "High dealer and field service performance complexity",
+            "Medium EV transition and new product reliability complexity",
+            "High aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "Hero MotoCorp shows Medium warranty complexity, Low supply chain complexity, High dealer/service complexity, Medium EV transition complexity, and High aftermarket opportunity.",
+        "expected_business_value": "Improved dealer performance; Higher aftermarket revenue; Better customer experience; Early defect detection before escalation; Reduction in warranty cost",
+        "key_xyz_capabilities": [
+            "Dealer performance dashboard",
+            "Sales and service KPI analytics",
+            "Dealer benchmarking",
+            "Service demand forecasting",
+            "Aftermarket revenue analytics"
+        ],
+        "relevant_kpis": [
+            "Sales per dealer",
+            "Showroom conversion rate",
+            "Finance penetration",
+            "Aftermarket revenue per vehicle",
+            "Warranty penetration percentage"
+        ],
+        "suggested_stakeholders": [
+            "Head of Sales",
+            "Head of Dealer Development",
+            "Head of Field Service",
+            "Head of Customer Experience",
+            "Aftermarket Business Leader"
+        ],
+        "sales_conversation_starter": "How is Hero MotoCorp currently measuring dealer performance, service efficiency, aftermarket revenue, and customer experience across locations?",
+        "why_not_risk": "Hero MotoCorp is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. Large OEMs may already have internal analytics teams, so XYZ should position domain accelerators and faster time-to-value.",
+        "sales_strategy_focus": "Lead with dealer performance improvement, service efficiency, aftermarket revenue, and customer experience.",
+        "recommended_next_action": "Schedule a 30-minute executive discovery call, validate the active pain area, and propose a focused analytics PoC using available warranty, supply chain, or dealer data.",
+        "evidence_notes": "Large dealer network and service base make dealer intelligence and warranty analytics relevant. Live evidence keywords: ev, supply chain, two-wheeler. Recent news evidence: Hero MotoCorp to Invest Over ₹3,200 Crore in Andhra Pradesh; New Global Parts Centre to Strengthen EV & Supply Chain Play - Autopunditz | Hero MotoCorp Invests Rs 3200 Crore in Andhra - Passionate In Marketing | India’s auto giants refute concerns of E20 damage - Business Today | Stocks To Watch Today: Maruti, NMDC, Hero MotoCorp, Coal India, Airtel In Focus - News18 | Hero MotoCorp elevates Sanja. Live web summary: Hero MotoCorp to Invest Over ₹3,200 Crore in Andhra Pradesh; New Global Parts Centre to Strengthen EV & Supply Chain Play - Autopunditz | Hero MotoCorp Invests Rs 3200 Crore in Andhra - Passionate In Marketing | India’s auto giants refute concerns of E20 damage - Business Today | Stocks To Watch Today: Maruti, NMDC, Hero MotoCorp, Coal India, Airtel In Focus - News18 | Hero MotoCorp elevates Sanja.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 6,
+        "company_name": "TVS Motor Company",
+        "segment": "OEM",
+        "category": "Two-Wheelers, Three-Wheelers, EV",
+        "company_overview": "Major two-wheeler and three-wheeler manufacturer with growing EV presence.",
+        "primary_solution": "Dealer & Field Service Intelligence",
+        "secondary_solution": "Warranty Analytics",
+        "opportunity_score": 82,
+        "priority": "Hot",
+        "confidence": "High",
+        "why_selected": "TVS Motor Company was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the OEM segment with a total opportunity score of 82/100. Key growth and opportunity signals include EV scooter growth, premium two-wheeler focus, dealer network expansion, export presence. Evidence note: EV and dealer network growth create opportunities for warranty and dealer intelligence.",
+        "business_challenges": [
+            "Medium warranty and quality analytics need",
+            "Medium supply chain and supplier risk complexity",
+            "High dealer and field service performance complexity",
+            "Medium EV transition and new product reliability complexity",
+            "Medium aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "TVS Motor Company shows Medium warranty complexity, Medium supply chain complexity, High dealer/service complexity, Medium EV transition complexity, and Medium aftermarket opportunity.",
+        "expected_business_value": "Improved dealer performance; Higher aftermarket revenue; Better customer experience; Early defect detection before escalation; Reduction in warranty cost",
+        "key_xyz_capabilities": [
+            "Dealer performance dashboard",
+            "Sales and service KPI analytics",
+            "Dealer benchmarking",
+            "Service demand forecasting",
+            "Aftermarket revenue analytics"
+        ],
+        "relevant_kpis": [
+            "Sales per dealer",
+            "Showroom conversion rate",
+            "Finance penetration",
+            "Aftermarket revenue per vehicle",
+            "Warranty penetration percentage"
+        ],
+        "suggested_stakeholders": [
+            "Head of Sales",
+            "Head of Dealer Development",
+            "Head of Field Service",
+            "Head of Customer Experience",
+            "Aftermarket Business Leader"
+        ],
+        "sales_conversation_starter": "How is TVS Motor Company currently measuring dealer performance, service efficiency, aftermarket revenue, and customer experience across locations?",
+        "why_not_risk": "TVS Motor Company is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. Large OEMs may already have internal analytics teams, so XYZ should position domain accelerators and faster time-to-value.",
+        "sales_strategy_focus": "Lead with dealer performance improvement, service efficiency, aftermarket revenue, and customer experience.",
+        "recommended_next_action": "Schedule a 30-minute executive discovery call, validate the active pain area, and propose a focused analytics PoC using available warranty, supply chain, or dealer data.",
+        "evidence_notes": "EV and dealer network growth create opportunities for warranty and dealer intelligence. Live evidence keywords: ev, manufacturing. Recent news evidence: TVS Motor Company hits record quarterly sales of 1.63 Million - Manufacturing Today India | 'Ethanol blending done on scientific evidence, extensive testing': Industry experts defend E20 fuel - The New Indian Express | Robust overseas show helps TVS emerge top 2-wheeler company in India - The Economic Times | TVS Motor vrooms past Hero, Honda to take top slot in 2-wheeler sales - Business Standard. Live web summary: TVS Motor Company hits record quarterly sales of 1.63 Million - Manufacturing Today India | 'Ethanol blending done on scientific evidence, extensive testing': Industry experts defend E20 fuel - The New Indian Express | Robust overseas show helps TVS emerge top 2-wheeler company in India - The Economic Times | TVS Motor vrooms past Hero, Honda to take top slot in 2-wheeler sales - Business Standard.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 7,
+        "company_name": "Tata Motors",
+        "segment": "OEM",
+        "category": "Passenger Vehicles, Commercial Vehicles, EV",
+        "company_overview": "Large Indian automotive OEM with passenger vehicles, commercial vehicles, EV portfolio, and broad market presence.",
+        "primary_solution": "Warranty Analytics",
+        "secondary_solution": "Supply Chain Risk Prediction",
+        "opportunity_score": 81,
+        "priority": "Hot",
+        "confidence": "High",
+        "why_selected": "Tata Motors was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the OEM segment with a total opportunity score of 81/100. Key growth and opportunity signals include EV growth, commercial vehicle scale, large dealer and service network, connected mobility focus. Evidence note: High vehicle volumes, EV expansion, and service network scale indicate strong analytics opportunity.",
+        "business_challenges": [
+            "Medium warranty and quality analytics need",
+            "Medium supply chain and supplier risk complexity",
+            "Medium dealer and field service performance complexity",
+            "Medium EV transition and new product reliability complexity",
+            "Medium aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "Tata Motors shows Medium warranty complexity, Medium supply chain complexity, Medium dealer/service complexity, Medium EV transition complexity, and Medium aftermarket opportunity.",
+        "expected_business_value": "Early defect detection before escalation; Reduction in warranty cost; Improved quality response; Reduced production disruption; Improved supply chain visibility",
+        "key_xyz_capabilities": [
+            "Warranty claim trend analysis",
+            "Defect pattern detection",
+            "Time-series anomaly detection",
+            "Clustering of failure symptoms",
+            "Correlation of defects with supplier, plant, batch, or vehicle model"
+        ],
+        "relevant_kpis": [
+            "Defects per 1,000 vehicles",
+            "Mean Time Between Failures",
+            "Warranty spend per unit",
+            "Claim cycle time",
+            "Recall incidence rate"
+        ],
+        "suggested_stakeholders": [
+            "Head of Quality",
+            "Head of Warranty",
+            "Head of After-Sales Service",
+            "Manufacturing Quality Leader",
+            "CIO / Chief Data Officer"
+        ],
+        "sales_conversation_starter": "How is Tata Motors currently using warranty claims, service records, and quality data to detect defect patterns before they become large-scale field issues?",
+        "why_not_risk": "Tata Motors is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. Large OEMs may already have internal analytics teams, so XYZ should position domain accelerators and faster time-to-value.",
+        "sales_strategy_focus": "Lead with warranty cost reduction, early defect detection, recall prevention, and quality analytics.",
+        "recommended_next_action": "Schedule a 30-minute executive discovery call, validate the active pain area, and propose a focused analytics PoC using available warranty, supply chain, or dealer data.",
+        "evidence_notes": "High vehicle volumes, EV expansion, and service network scale indicate strong analytics opportunity. Live evidence keywords: commercial vehicle, customer, electric, ev, mobility, quality. Recent news evidence: June 2026 car sales: Tata narrowly retains second place over Mahindra - Autocar India | Tata Motors CV Sales Grow 27% in Q1 FY27; June 2026 Volumes Surge 35% YoY - Autopunditz | Tata Motors PV sales jump 69% in June as EVs surge - MSN | Top 10 selling cars in June: Tata dominates with Punch, Nexon in lead; Maruti has 6 models as Creta drops... - Moneycontrol.com | Maruti stays on top, Tata edges p. Live web summary: June 2026 car sales: Tata narrowly retains second place over Mahindra - Autocar India | Tata Motors CV Sales Grow 27% in Q1 FY27; June 2026 Volumes Surge 35% YoY - Autopunditz | Tata Motors PV sales jump 69% in June as EVs surge - MSN | Top 10 selling cars in June: Tata dominates with Punch, Nexon in lead; Maruti has 6 models as Creta drops... - Moneycontrol.com | Maruti stays on top, Tata edges p.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 8,
+        "company_name": "Ashok Leyland",
+        "segment": "OEM",
+        "category": "Commercial Vehicles, Buses, Trucks",
+        "company_overview": "Major commercial vehicle manufacturer with trucks, buses, fleet operations, and service network.",
+        "primary_solution": "Dealer & Field Service Intelligence",
+        "secondary_solution": "Warranty Analytics",
+        "opportunity_score": 80,
+        "priority": "Hot",
+        "confidence": "High",
+        "why_selected": "Ashok Leyland was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the OEM segment with a total opportunity score of 80/100. Key growth and opportunity signals include commercial vehicle demand, fleet uptime focus, service network expansion, supply chain dependency. Evidence note: Commercial vehicle uptime and service quality make warranty and field service intelligence highly relevant.",
+        "business_challenges": [
+            "Medium warranty and quality analytics need",
+            "Medium supply chain and supplier risk complexity",
+            "High dealer and field service performance complexity",
+            "Medium aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "Ashok Leyland shows Medium warranty complexity, Medium supply chain complexity, High dealer/service complexity, Low EV transition complexity, and Medium aftermarket opportunity.",
+        "expected_business_value": "Improved dealer performance; Higher aftermarket revenue; Better customer experience; Early defect detection before escalation; Reduction in warranty cost",
+        "key_xyz_capabilities": [
+            "Dealer performance dashboard",
+            "Sales and service KPI analytics",
+            "Dealer benchmarking",
+            "Service demand forecasting",
+            "Aftermarket revenue analytics"
+        ],
+        "relevant_kpis": [
+            "Sales per dealer",
+            "Showroom conversion rate",
+            "Finance penetration",
+            "Aftermarket revenue per vehicle",
+            "Warranty penetration percentage"
+        ],
+        "suggested_stakeholders": [
+            "Head of Sales",
+            "Head of Dealer Development",
+            "Head of Field Service",
+            "Head of Customer Experience",
+            "Aftermarket Business Leader"
+        ],
+        "sales_conversation_starter": "How is Ashok Leyland currently measuring dealer performance, service efficiency, aftermarket revenue, and customer experience across locations?",
+        "why_not_risk": "Ashok Leyland is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. Large OEMs may already have internal analytics teams, so XYZ should position domain accelerators and faster time-to-value.",
+        "sales_strategy_focus": "Lead with dealer performance improvement, service efficiency, aftermarket revenue, and customer experience.",
+        "recommended_next_action": "Schedule a 30-minute executive discovery call, validate the active pain area, and propose a focused analytics PoC using available warranty, supply chain, or dealer data.",
+        "evidence_notes": "Commercial vehicle uptime and service quality make warranty and field service intelligence highly relevant. Live evidence keywords: commercial vehicle, dealer, ev, manufacturing, mobility. Recent news evidence: Ashok Leyland launches India’s first air suspension trucks - Automotive World | Ashok Leyland introduces India's first air suspension range of trucks - Business Standard | Ashok Leyland opens 13th LCV dealership in Gujarat with Jamnagar facility - Prittle Prattle News | Ashok Leyland launches India’s first 45T, 46T and 49T air-suspension trucks - HT Auto | India's Ashok Leyland posts record quarte. Live web summary: Ashok Leyland launches India’s first air suspension trucks - Automotive World | Ashok Leyland introduces India's first air suspension range of trucks - Business Standard | Ashok Leyland opens 13th LCV dealership in Gujarat with Jamnagar facility - Prittle Prattle News | Ashok Leyland launches India’s first 45T, 46T and 49T air-suspension trucks - HT Auto | India's Ashok Leyland posts record quarte.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 9,
+        "company_name": "Sona BLW Precision Forgings",
+        "segment": "Component Manufacturer",
+        "category": "EV Components, Drivetrain, Precision Forgings",
+        "company_overview": "Automotive technology and component company with drivetrain and EV-related component focus.",
+        "primary_solution": "Supply Chain Risk Prediction",
+        "secondary_solution": "Warranty Analytics",
+        "opportunity_score": 78,
+        "priority": "Warm",
+        "confidence": "Medium",
+        "why_selected": "Sona BLW Precision Forgings was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the Component Manufacturer segment with a total opportunity score of 78/100. Key growth and opportunity signals include EV component growth, global customers, precision manufacturing, quality requirements. Evidence note: EV component exposure and precision manufacturing create strong analytics relevance.",
+        "business_challenges": [
+            "High warranty and quality analytics need",
+            "High supply chain and supplier risk complexity",
+            "Medium EV transition and new product reliability complexity"
+        ],
+        "recommended_solution_rationale": "Sona BLW Precision Forgings shows High warranty complexity, High supply chain complexity, Low dealer/service complexity, Medium EV transition complexity, and Low aftermarket opportunity.",
+        "expected_business_value": "Reduced production disruption; Improved supply chain visibility; Lower logistics cost; Early defect detection before escalation; Reduction in warranty cost",
+        "key_xyz_capabilities": [
+            "Supplier risk scoring",
+            "Graph-based supplier network analysis",
+            "Shipment and logistics monitoring",
+            "Inventory risk monitoring",
+            "Lead-time forecasting"
+        ],
+        "relevant_kpis": [
+            "Supplier risk score",
+            "Parts availability",
+            "Days of inventory",
+            "Fill rate",
+            "On-time in-full delivery rate"
+        ],
+        "suggested_stakeholders": [
+            "Chief Supply Chain Officer",
+            "Head of Procurement",
+            "Head of Manufacturing Operations",
+            "Supplier Quality Leader",
+            "COO / CIO",
+            "Head of OEM Customer Programs"
+        ],
+        "sales_conversation_starter": "How is Sona BLW Precision Forgings currently predicting supplier, inventory, and logistics risks before they impact production continuity?",
+        "why_not_risk": "Sona BLW Precision Forgings is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. For suppliers and component manufacturers, the buying center may sit in operations, quality, or supply chain rather than IT.",
+        "sales_strategy_focus": "Lead with supplier risk visibility, production continuity, lead-time forecasting, and disruption prevention.",
+        "recommended_next_action": "Start with a targeted business-value conversation and validate whether the company has active transformation, quality, supply chain, or service improvement initiatives.",
+        "evidence_notes": "EV component exposure and precision manufacturing create strong analytics relevance. Live evidence keywords: component, connected, electric, ev, manufacturing, mobility, quality, supplier. Recent news evidence: India’s Biggest Auto IPOs: How Mobility Became A Major Dalal Street Theme - Autopunditz | Strong EV demand, diversified portfolio to sustain growth for Sona BLW - Business Standard | Bharat Forge, Sona BLW, other auto ancillary stocks in focus as US offers tariff relief on auto parts - Moneycontrol.com | Auto stocks to buy with up to 47% potential upside, ahead of May auto sales data - Business To. Live web summary: India’s Biggest Auto IPOs: How Mobility Became A Major Dalal Street Theme - Autopunditz | Strong EV demand, diversified portfolio to sustain growth for Sona BLW - Business Standard | Bharat Forge, Sona BLW, other auto ancillary stocks in focus as US offers tariff relief on auto parts - Moneycontrol.com | Auto stocks to buy with up to 47% potential upside, ahead of May auto sales data - Business To.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 10,
+        "company_name": "Amara Raja Energy & Mobility",
+        "segment": "Component Manufacturer",
+        "category": "Batteries, Energy Storage, Mobility",
+        "company_overview": "Battery and energy storage company serving automotive and industrial markets.",
+        "primary_solution": "Supply Chain Risk Prediction",
+        "secondary_solution": "Warranty Analytics",
+        "opportunity_score": 77,
+        "priority": "Warm",
+        "confidence": "Medium",
+        "why_selected": "Amara Raja Energy & Mobility was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the Component Manufacturer segment with a total opportunity score of 77/100. Key growth and opportunity signals include battery demand, EV ecosystem, aftermarket battery network, energy storage growth. Evidence note: Battery warranty, aftermarket channel, and EV ecosystem create strong analytics fit.",
+        "business_challenges": [
+            "Medium warranty and quality analytics need",
+            "High supply chain and supplier risk complexity",
+            "Medium dealer and field service performance complexity",
+            "Medium EV transition and new product reliability complexity",
+            "Medium aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "Amara Raja Energy & Mobility shows Medium warranty complexity, High supply chain complexity, Medium dealer/service complexity, Medium EV transition complexity, and Medium aftermarket opportunity.",
+        "expected_business_value": "Reduced production disruption; Improved supply chain visibility; Lower logistics cost; Early defect detection before escalation; Reduction in warranty cost",
+        "key_xyz_capabilities": [
+            "Supplier risk scoring",
+            "Graph-based supplier network analysis",
+            "Shipment and logistics monitoring",
+            "Inventory risk monitoring",
+            "Lead-time forecasting"
+        ],
+        "relevant_kpis": [
+            "Supplier risk score",
+            "Parts availability",
+            "Days of inventory",
+            "Fill rate",
+            "On-time in-full delivery rate"
+        ],
+        "suggested_stakeholders": [
+            "Chief Supply Chain Officer",
+            "Head of Procurement",
+            "Head of Manufacturing Operations",
+            "Supplier Quality Leader",
+            "COO / CIO",
+            "Head of OEM Customer Programs"
+        ],
+        "sales_conversation_starter": "How is Amara Raja Energy & Mobility currently predicting supplier, inventory, and logistics risks before they impact production continuity?",
+        "why_not_risk": "Amara Raja Energy & Mobility is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. For suppliers and component manufacturers, the buying center may sit in operations, quality, or supply chain rather than IT.",
+        "sales_strategy_focus": "Lead with supplier risk visibility, production continuity, lead-time forecasting, and disruption prevention.",
+        "recommended_next_action": "Start with a targeted business-value conversation and validate whether the company has active transformation, quality, supply chain, or service improvement initiatives.",
+        "evidence_notes": "Battery warranty, aftermarket channel, and EV ecosystem create strong analytics fit. Live evidence keywords: battery, ev, mobility, service. Recent news evidence: China curbs no bar: Amara Raja goes solo to unlock homegrown battery tech for India - Business Today | Amara Raja plans ₹1,700 crore capex push for FY27; targets Q1 FY28 lithium plant launch - ET Auto | Amara Raja Energy & Mobility's (NSE:ARE&M) Problems Go Beyond Weak Profit - simplywall.st | Amara Raja Posts Strong FY26 Revenue Growth at 13,549 Crore - Entrepreneur India | Amara Raja Energy & Mo. Live web summary: China curbs no bar: Amara Raja goes solo to unlock homegrown battery tech for India - Business Today | Amara Raja plans ₹1,700 crore capex push for FY27; targets Q1 FY28 lithium plant launch - ET Auto | Amara Raja Energy & Mobility's (NSE:ARE&M) Problems Go Beyond Weak Profit - simplywall.st | Amara Raja Posts Strong FY26 Revenue Growth at 13,549 Crore - Entrepreneur India | Amara Raja Energy & Mo.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 11,
+        "company_name": "JBM Auto",
+        "segment": "OEM / Component Manufacturer",
+        "category": "Electric Buses, Auto Components",
+        "company_overview": "Automotive company active in auto components and electric mobility including buses.",
+        "primary_solution": "Warranty Analytics",
+        "secondary_solution": "Supply Chain Risk Prediction",
+        "opportunity_score": 77,
+        "priority": "Warm",
+        "confidence": "Medium",
+        "why_selected": "JBM Auto was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the OEM / Component Manufacturer segment with a total opportunity score of 77/100. Key growth and opportunity signals include electric bus growth, public mobility, component manufacturing, supply chain needs. Evidence note: EV bus operations create field service, warranty, and supply chain analytics opportunities.",
+        "business_challenges": [
+            "High warranty and quality analytics need",
+            "High supply chain and supplier risk complexity",
+            "Medium dealer and field service performance complexity",
+            "Medium EV transition and new product reliability complexity"
+        ],
+        "recommended_solution_rationale": "JBM Auto shows High warranty complexity, High supply chain complexity, Medium dealer/service complexity, Medium EV transition complexity, and Low aftermarket opportunity.",
+        "expected_business_value": "Early defect detection before escalation; Reduction in warranty cost; Improved quality response; Reduced production disruption; Improved supply chain visibility",
+        "key_xyz_capabilities": [
+            "Warranty claim trend analysis",
+            "Defect pattern detection",
+            "Time-series anomaly detection",
+            "Clustering of failure symptoms",
+            "Correlation of defects with supplier, plant, batch, or vehicle model"
+        ],
+        "relevant_kpis": [
+            "Defects per 1,000 vehicles",
+            "Mean Time Between Failures",
+            "Warranty spend per unit",
+            "Claim cycle time",
+            "Recall incidence rate"
+        ],
+        "suggested_stakeholders": [
+            "Head of Quality",
+            "Head of Warranty",
+            "Head of After-Sales Service",
+            "Manufacturing Quality Leader",
+            "CIO / Chief Data Officer",
+            "Head of OEM Customer Programs"
+        ],
+        "sales_conversation_starter": "How is JBM Auto currently using warranty claims, service records, and quality data to detect defect patterns before they become large-scale field issues?",
+        "why_not_risk": "JBM Auto is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. Large OEMs may already have internal analytics teams, so XYZ should position domain accelerators and faster time-to-value.",
+        "sales_strategy_focus": "Lead with warranty cost reduction, early defect detection, recall prevention, and quality analytics.",
+        "recommended_next_action": "Start with a targeted business-value conversation and validate whether the company has active transformation, quality, supply chain, or service improvement initiatives.",
+        "evidence_notes": "EV bus operations create field service, warranty, and supply chain analytics opportunities. Live evidence keywords: charging, component, electric, ev. Recent news evidence: JBM Electric Vehicles Teams Up with Al Habtoor Motors to Bring E-Buses to the UAE - Machine Maker | JBM Auto Leads India’s Electric Bus Market with 49% Share in May 2026 - Passionate In Marketing | Bosch, JBM Auto, Igarashi rally up to 12%; why are OEM shares in demand? - Business Standard | Olectra Greentech, JBM Auto shares rally up to 7.6%; what investors need to know - Upstox | JBM Auto Shares. Live web summary: JBM Electric Vehicles Teams Up with Al Habtoor Motors to Bring E-Buses to the UAE - Machine Maker | JBM Auto Leads India’s Electric Bus Market with 49% Share in May 2026 - Passionate In Marketing | Bosch, JBM Auto, Igarashi rally up to 12%; why are OEM shares in demand? - Business Standard | Olectra Greentech, JBM Auto shares rally up to 7.6%; what investors need to know - Upstox | JBM Auto Shares.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 12,
+        "company_name": "Mahindra & Mahindra",
+        "segment": "OEM",
+        "category": "SUVs, Commercial Vehicles, Tractors, EV",
+        "company_overview": "Major Indian automotive and farm equipment company with SUVs, commercial vehicles, tractors, and EV initiatives.",
+        "primary_solution": "Warranty Analytics",
+        "secondary_solution": "Supply Chain Risk Prediction",
+        "opportunity_score": 77,
+        "priority": "Warm",
+        "confidence": "Medium",
+        "why_selected": "Mahindra & Mahindra was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the OEM segment with a total opportunity score of 77/100. Key growth and opportunity signals include SUV demand, EV initiatives, tractor leadership, rural and urban market spread. Evidence note: Diverse portfolio and dealer network complexity create strong opportunity for dealer and warranty analytics.",
+        "business_challenges": [
+            "Medium warranty and quality analytics need",
+            "Medium supply chain and supplier risk complexity",
+            "Medium dealer and field service performance complexity",
+            "Medium EV transition and new product reliability complexity",
+            "Medium aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "Mahindra & Mahindra shows Medium warranty complexity, Medium supply chain complexity, Medium dealer/service complexity, Medium EV transition complexity, and Medium aftermarket opportunity.",
+        "expected_business_value": "Early defect detection before escalation; Reduction in warranty cost; Improved quality response; Reduced production disruption; Improved supply chain visibility",
+        "key_xyz_capabilities": [
+            "Warranty claim trend analysis",
+            "Defect pattern detection",
+            "Time-series anomaly detection",
+            "Clustering of failure symptoms",
+            "Correlation of defects with supplier, plant, batch, or vehicle model"
+        ],
+        "relevant_kpis": [
+            "Defects per 1,000 vehicles",
+            "Mean Time Between Failures",
+            "Warranty spend per unit",
+            "Claim cycle time",
+            "Recall incidence rate"
+        ],
+        "suggested_stakeholders": [
+            "Head of Quality",
+            "Head of Warranty",
+            "Head of After-Sales Service",
+            "Manufacturing Quality Leader",
+            "CIO / Chief Data Officer"
+        ],
+        "sales_conversation_starter": "How is Mahindra & Mahindra currently using warranty claims, service records, and quality data to detect defect patterns before they become large-scale field issues?",
+        "why_not_risk": "Mahindra & Mahindra is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. Large OEMs may already have internal analytics teams, so XYZ should position domain accelerators and faster time-to-value.",
+        "sales_strategy_focus": "Lead with warranty cost reduction, early defect detection, recall prevention, and quality analytics.",
+        "recommended_next_action": "Start with a targeted business-value conversation and validate whether the company has active transformation, quality, supply chain, or service improvement initiatives.",
+        "evidence_notes": "Diverse portfolio and dealer network complexity create strong opportunity for dealer and warranty analytics. Live evidence keywords: dealer, electric, mobility, service. Recent news evidence: Mahindra Auto clocks 60,393 SUVs, a growth of 28% and 1,06,207 total vehicle sales, a growth of 37% in June 2026 - Mahindra | Mahindra Auto Records 28% SUV Growth, Crosses 1.06 Lakh Total Vehicle Sales in June 2026 - Autopunditz | Mahindra & Mahindra auto sales jump 37% in Jun'26 - Business Standard | Mahindra & Mahindra Ltd strategy shapes the long-term story for investors - AD HOC NEWS | Tata, M. Live web summary: The Mahindra Group Official Website | Together We Rise A technology & innovation-led, global, federation of companies, that provides a wide range of products, services & possibilities, enabling people to Rise Purpose Led, Performance Driven, Future Ready CLUB MAHINDRA'S TRANSITION TO ELECTRIC 70 LAKH TRACTORS SOLD M.TECH AND PHD IN SUSTAINABILITY MAHINDRA SEASON OF FESTIVALS 2026-27 MAHINDRA BEACO.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 13,
+        "company_name": "Minda Corporation",
+        "segment": "Tier-1 Supplier",
+        "category": "Automotive Components, Security Systems, Electronics",
+        "company_overview": "Automotive component supplier with security systems, wiring, electronics, and component solutions.",
+        "primary_solution": "Supply Chain Risk Prediction",
+        "secondary_solution": "Warranty Analytics",
+        "opportunity_score": 76,
+        "priority": "Warm",
+        "confidence": "Medium",
+        "why_selected": "Minda Corporation was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the Tier-1 Supplier segment with a total opportunity score of 76/100. Key growth and opportunity signals include electronics growth, OEM dependency, EV component opportunity, quality requirements. Evidence note: Electronics and OEM supply relationships indicate analytics fit.",
+        "business_challenges": [
+            "High warranty and quality analytics need",
+            "High supply chain and supplier risk complexity",
+            "Medium EV transition and new product reliability complexity"
+        ],
+        "recommended_solution_rationale": "Minda Corporation shows High warranty complexity, High supply chain complexity, Low dealer/service complexity, Medium EV transition complexity, and Low aftermarket opportunity.",
+        "expected_business_value": "Reduced production disruption; Improved supply chain visibility; Lower logistics cost; Early defect detection before escalation; Reduction in warranty cost",
+        "key_xyz_capabilities": [
+            "Supplier risk scoring",
+            "Graph-based supplier network analysis",
+            "Shipment and logistics monitoring",
+            "Inventory risk monitoring",
+            "Lead-time forecasting"
+        ],
+        "relevant_kpis": [
+            "Supplier risk score",
+            "Parts availability",
+            "Days of inventory",
+            "Fill rate",
+            "On-time in-full delivery rate"
+        ],
+        "suggested_stakeholders": [
+            "Chief Supply Chain Officer",
+            "Head of Procurement",
+            "Head of Manufacturing Operations",
+            "Supplier Quality Leader",
+            "COO / CIO",
+            "Head of OEM Customer Programs"
+        ],
+        "sales_conversation_starter": "How is Minda Corporation currently predicting supplier, inventory, and logistics risks before they impact production continuity?",
+        "why_not_risk": "Minda Corporation is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. For suppliers and component manufacturers, the buying center may sit in operations, quality, or supply chain rather than IT.",
+        "sales_strategy_focus": "Lead with supplier risk visibility, production continuity, lead-time forecasting, and disruption prevention.",
+        "recommended_next_action": "Start with a targeted business-value conversation and validate whether the company has active transformation, quality, supply chain, or service improvement initiatives.",
+        "evidence_notes": "Electronics and OEM supply relationships indicate analytics fit. Live evidence keywords: battery, component, electric, ev, manufacturing, mobility. Recent news evidence: Top 10 Auto Component Manufacturers in India: The Companies Powering the Automotive Industry - Autopunditz | Minda Corporation Reports Rs 6,185 Crore Revenue In FY2026, EBITDA Stands At Rs 721 Crore - BW Auto World | Spark Minda Green Mobility forms JV with UK-based Turntide to develop next-gen powertrain solutions - ET Auto | Minda Corporation and Turntide Technologies Form Joint Venture for Indi. Live web summary: Top 10 Auto Component Manufacturers in India: The Companies Powering the Automotive Industry - Autopunditz | Minda Corporation Reports Rs 6,185 Crore Revenue In FY2026, EBITDA Stands At Rs 721 Crore - BW Auto World | Spark Minda Green Mobility forms JV with UK-based Turntide to develop next-gen powertrain solutions - ET Auto | Minda Corporation and Turntide Technologies Form Joint Venture for Indi.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 14,
+        "company_name": "Maruti Suzuki India",
+        "segment": "OEM",
+        "category": "Passenger Vehicles",
+        "company_overview": "Leading passenger vehicle manufacturer in India with very large sales, service, and dealer footprint.",
+        "primary_solution": "Dealer & Field Service Intelligence",
+        "secondary_solution": "Warranty Analytics",
+        "opportunity_score": 76,
+        "priority": "Warm",
+        "confidence": "Medium",
+        "why_selected": "Maruti Suzuki India was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the OEM segment with a total opportunity score of 76/100. Key growth and opportunity signals include high passenger vehicle volumes, service network scale, new model launches, hybrid and CNG focus. Evidence note: High vehicle volumes and dealer/service scale make dealer intelligence and warranty analytics relevant.",
+        "business_challenges": [
+            "Medium warranty and quality analytics need",
+            "High dealer and field service performance complexity",
+            "High aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "Maruti Suzuki India shows Medium warranty complexity, Low supply chain complexity, High dealer/service complexity, Low EV transition complexity, and High aftermarket opportunity.",
+        "expected_business_value": "Improved dealer performance; Higher aftermarket revenue; Better customer experience; Early defect detection before escalation; Reduction in warranty cost",
+        "key_xyz_capabilities": [
+            "Dealer performance dashboard",
+            "Sales and service KPI analytics",
+            "Dealer benchmarking",
+            "Service demand forecasting",
+            "Aftermarket revenue analytics"
+        ],
+        "relevant_kpis": [
+            "Sales per dealer",
+            "Showroom conversion rate",
+            "Finance penetration",
+            "Aftermarket revenue per vehicle",
+            "Warranty penetration percentage"
+        ],
+        "suggested_stakeholders": [
+            "Head of Sales",
+            "Head of Dealer Development",
+            "Head of Field Service",
+            "Head of Customer Experience",
+            "Aftermarket Business Leader"
+        ],
+        "sales_conversation_starter": "How is Maruti Suzuki India currently measuring dealer performance, service efficiency, aftermarket revenue, and customer experience across locations?",
+        "why_not_risk": "Maruti Suzuki India is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. Large OEMs may already have internal analytics teams, so XYZ should position domain accelerators and faster time-to-value.",
+        "sales_strategy_focus": "Lead with dealer performance improvement, service efficiency, aftermarket revenue, and customer experience.",
+        "recommended_next_action": "Start with a targeted business-value conversation and validate whether the company has active transformation, quality, supply chain, or service improvement initiatives.",
+        "evidence_notes": "High vehicle volumes and dealer/service scale make dealer intelligence and warranty analytics relevant. Recent news evidence: Maruti Suzuki inaugurates Kharkhoda plant in India - Automotive World | Maruti Suzuki’s ₹35,000 Crore Kharkhoda Mega Plant to be Inaugurated Today by PM Modi and Japan PM Sanae Takaichi - Autopunditz | Maruti stays on top, Tata edges past Mahindra in June PV sales race - ET Auto | Maruti Suzuki India Sales Jump 19.3% in June to 200,390 Units - Rediff MoneyWiz | Maruti Suzuki, Toyota India execs de. Live web summary: Maruti Suzuki India Corporate - Discover Arena, NEXA cars, Commercial and True Value Explore Maruti Suzuki India and get exclusive information on hatchbacks, sedans, SUVs, strong hybrid cars, S-CNG cars, latest offers and more. Explore channels like NEXA, Arena, Commercial and True Value. Maruti Suzuki India Business Channels More from Maruti Suzuki Discover Maruti Suzuki Cars our Values /content/.",
+        "validation_status": "Accepted"
+    },
+    {
+        "rank": 15,
+        "company_name": "MRF",
+        "segment": "Component Manufacturer",
+        "category": "Tyres, Rubber Products",
+        "company_overview": "Major tyre manufacturer with OEM and aftermarket presence.",
+        "primary_solution": "Dealer & Field Service Intelligence",
+        "secondary_solution": "Supply Chain Risk Prediction",
+        "opportunity_score": 76,
+        "priority": "Warm",
+        "confidence": "Medium",
+        "why_selected": "MRF was selected because it shows strong relevance to XYZ's automotive analytics offerings. The company is in the Component Manufacturer segment with a total opportunity score of 76/100. Key growth and opportunity signals include aftermarket tyre demand, OEM relationships, quality and warranty exposure, distribution scale. Evidence note: Large aftermarket and warranty exposure make dealer and warranty analytics relevant.",
+        "business_challenges": [
+            "Medium warranty and quality analytics need",
+            "Medium supply chain and supplier risk complexity",
+            "Medium dealer and field service performance complexity",
+            "High aftermarket revenue and service intelligence opportunity"
+        ],
+        "recommended_solution_rationale": "MRF shows Medium warranty complexity, Medium supply chain complexity, Medium dealer/service complexity, Low EV transition complexity, and High aftermarket opportunity.",
+        "expected_business_value": "Improved dealer performance; Higher aftermarket revenue; Better customer experience; Reduced production disruption; Improved supply chain visibility",
+        "key_xyz_capabilities": [
+            "Dealer performance dashboard",
+            "Sales and service KPI analytics",
+            "Dealer benchmarking",
+            "Service demand forecasting",
+            "Aftermarket revenue analytics"
+        ],
+        "relevant_kpis": [
+            "Sales per dealer",
+            "Showroom conversion rate",
+            "Finance penetration",
+            "Aftermarket revenue per vehicle",
+            "Warranty penetration percentage"
+        ],
+        "suggested_stakeholders": [
+            "Head of Sales",
+            "Head of Dealer Development",
+            "Head of Field Service",
+            "Head of Customer Experience",
+            "Aftermarket Business Leader",
+            "Head of OEM Customer Programs"
+        ],
+        "sales_conversation_starter": "How is MRF currently measuring dealer performance, service efficiency, aftermarket revenue, and customer experience across locations?",
+        "why_not_risk": "MRF is a good-fit prospect, but additional validation is required on current analytics maturity, budget ownership, and access to operational data. For suppliers and component manufacturers, the buying center may sit in operations, quality, or supply chain rather than IT.",
+        "sales_strategy_focus": "Lead with dealer performance improvement, service efficiency, aftermarket revenue, and customer experience.",
+        "recommended_next_action": "Start with a targeted business-value conversation and validate whether the company has active transformation, quality, supply chain, or service improvement initiatives.",
+        "evidence_notes": "Large aftermarket and warranty exposure make dealer and warranty analytics relevant. Live evidence keywords: dealer, ev, export, service. Recent news evidence: Indian Tyre Brands Shine Globally: MRF, CEAT & Apollo Among World’s Strongest Tyre Brands in 2026 - Autopunditz | MRF's Arun Mammen re-elected as chairman of Automotive Tyre Manufacturers' Association - ET Auto | MRF to invest €500m in new tire plant in India - European Rubber Journal | MRF Vice Chairman and MD Arun Mammen re-elected as ATMA chairman - Business Standard | New mileage pitch, MRF ZL. Live web summary: Car Tyres | Bike Tyres by official website of MRF Tyres MRF is the largest manufacturer of tyres in India. Established in 1946 and headquartered in Chennai, MRF exports tyres to over 90 markets abroad. The company manufactures a wide range of products including tyres, treads, tubes & conveyor belts, paints and toys. Choose a tyre Tyres & Services Newsletter Who We Are Milestones Awards & Achieveme.",
+        "validation_status": "Accepted"
+    }
+]

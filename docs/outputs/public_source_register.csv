@@ -1,0 +1,14 @@
+source_name,source_type,usage,example_url,used_in_solution
+Official Company Websites,Company Information,"Company overview, products, manufacturing footprint, leadership announcements, investor information",Company-specific official website,Yes - used for live website evidence enrichment
+LinkedIn Company Pages,Company Information,"Company profile, employee strength, business updates, hiring signals",Company-specific LinkedIn page,Mapped as recommended enrichment source; not scraped due to login and anti-bot restrictions
+NSE India,Financial Information,Listed company financial and market information validation,https://www.nseindia.com,Mapped as financial validation source
+BSE India,Financial Information,Listed company financial and market information validation,https://www.bseindia.com,Mapped as financial validation source
+Moneycontrol,Financial Information,"Financial highlights, market profile, business news, stock/company research",https://www.moneycontrol.com,Mapped as financial and business validation source
+Screener,Financial Information,"Company financial ratios, filings, and listed company fundamentals",https://www.screener.in,Mapped as financial validation source
+IBEF,Industry Research,"Indian automotive industry context, sector growth, EV and market opportunity",https://www.ibef.org/industry/india-automobiles,Mapped as industry research source
+SIAM,Industry Research,"Automotive industry structure, OEM context, production and sector-level information",https://www.siam.in,Mapped as automotive OEM industry source
+ACMA,Industry Research,"Auto component industry context, component manufacturer ecosystem, supplier landscape",https://www.acma.in,Mapped as component industry source
+Economic Times Auto,Business News,"Automotive business news, growth initiatives, EV announcements, industry developments",https://auto.economictimes.indiatimes.com,Mapped as business news validation source
+Autocar Professional,Business News,"Automotive industry news, company expansion, production, EV, and supplier updates",https://www.autocarpro.in,Mapped as business news validation source
+Google News RSS,Business News,"Recent developments, trigger events, company announcements, and market signals",https://news.google.com/rss/search?q=<company>,Yes - used for live news headline enrichment
+XYZ Product & Solutions Handbook,Product Knowledge,"Warranty Analytics, Supply Chain Risk Prediction, Dealer & Field Service Intelligence solution mapping",Provided hackathon document,Yes - used as structured product knowledge base

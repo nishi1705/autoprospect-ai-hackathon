@@ -1,0 +1,15 @@
+deliverable,status,evidence
+Working AI Agent Demonstration,Completed,Notebook executes 14-agent workflow with agent trace
+Google Colab Notebook,Completed,AutoProspect_AI_Hackathon.ipynb
+Product Knowledge Handbook Usage,Completed,"Structured product_knowledge.json with Warranty, Supply Chain, Dealer Intelligence"
+Public Data Source Usage,Completed,public_source_register.csv and company_source_mapping_top15.csv
+Live Web Research Evidence,Completed,"live_web_research_evidence.csv, company_live_evidence_summary.csv, web_scraping_status_report.csv"
+LLM Usage,Completed,GPT-4o mini used for 15 recommendation narratives with request IDs and token proof in llm_runtime_proof.csv
+Agentic AI Workflow,Completed,Custom lightweight multi-agent orchestration with 14 agents and trace in agent_trace_step9_6.json
+Market Research Report,Completed,executive_market_research_report.md and .html
+Top 10–15 Target Companies,Completed,top15_target_companies.csv
+Business Recommendations,Completed,top15_recommendation_cards.csv / .html
+LLM Enhanced Sales Narrative,Completed,top15_llm_enhanced_recommendations.csv / .json
+Architecture Diagram,Completed,architecture_diagram.png
+No Hardcoded API Keys,Completed,OpenAI API key read through Colab Secrets
+README Documentation,Pending GitHub packaging,Will be updated in Step 10B
